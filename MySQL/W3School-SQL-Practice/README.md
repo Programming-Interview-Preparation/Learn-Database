@@ -2,17 +2,17 @@
 
 ## Date: 15 Feb
 
-SQL Intro
-SQL Syntax
-SQL Select
-SQL Select Distinct
-SQL Where
-SQL And, Or, Not
-SQL Order By
-SQL Insert Into
-SQL Null Values
-SQL Update
-SQL Delete
+1. SQL Intro
+2. SQL Syntax
+3. SQL Select
+4. SQL Select Distinct
+5. SQL Where
+6. SQL And, Or, Not
+7. SQL Order By
+8. SQL Insert Into
+9. SQL Null Values
+10. SQL Update
+11. SQL Delete
 
 ## Date: 16 Feb
 
