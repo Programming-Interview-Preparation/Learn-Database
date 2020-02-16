@@ -3,15 +3,25 @@
 ## Date: 15 Feb
 
 SQL Intro
+
 SQL Syntax
+
 SQL Select
+
 SQL Select Distinct
+
 SQL Where
+
 SQL And, Or, Not
+
 SQL Order By
+
 SQL Insert Into
+
 SQL Null Values
+
 SQL Update
+
 SQL Delete
 
 ## Date: 16 Feb
