@@ -1,6 +1,6 @@
 # Time Line: 
 
-## Date: 15 Feb
+## Day - 01
 
 1. SQL Intro
 2. SQL Syntax
@@ -14,7 +14,8 @@
 10. SQL Update
 11. SQL Delete
 
-## Date: 16 Feb
+
+## Day - 02
 
 SQL Select Top
 SQL Min and Max
@@ -31,7 +32,7 @@ SQL Right Join
 SQL Full Join
 SQL Self Join
 
-## Date: 17 Feb
+## Day - 03
 
 SQL Union
 SQL Group By
@@ -45,7 +46,7 @@ SQL Null Functions
 SQL Stored Procedures
 SQL Comments
 
-## Date: 18 Feb
+## Day - 04
 
 SQL Database
 SQL Create DB
@@ -56,7 +57,7 @@ SQL Drop Table
 SQL Alter Table
 SQL Constraints
 
-## Date: 19 Feb
+## Day - 05
 
 SQL Not Null
 SQL Unique
